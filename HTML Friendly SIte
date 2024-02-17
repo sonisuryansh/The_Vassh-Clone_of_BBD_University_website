@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <title>Vassh Project</title>
+</head>
+<body>
+    <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f3971b">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td>
+                            <font face="arial" color="#000000" size="5">
+                                <span class="fa fa-user-circle" aria-hidden="true"></span>
+                                Vassh Group
+                            </font>
+                        </td>
+                        <td >
+                            &nbsp;
+                        </td>
+                        <td>
+                            <a href="#home"><font face="arial" color="#ffffff" size="4">Home</font></a>
+                        </td>
+                        <td>
+                            <a href="#about"><font face="arial" color="#ffffff" size="4">About</font></a>
+                        </td>
+                        <td>
+                            <a href="#practice"><font face="arial" color="#ffffff" size="4"><Param></Param>Practice</font></a>
+                        </td>
+                        <td>
+                            <a href="#Our-Faculty-Heads"><font face="arial" color="#ffffff" size="4">Our Faculty-Heads</font></a>
+                        </td>
+                        <td>
+                            <a href="#achievements"><font face="arial" color="#ffffff" size="4">Achievements</font></a>
+                        </td>
+                        <td>
+                            <a href="#login"><font face="arial" color="#ffffff" size="4">login</font></a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table id="home" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td align="center" valign="middle">
+                            <h3>
+                                <font face="arial" color="#ffffff" size="6">
+                                     BBD by Vassh
+                                </font>
+                            </h3>       
+                        <h2>
+                            <font face="arial" color="#f3971b" size="7">
+                                BABU BANARASI DAS UNIVERSITY 
+                           </font>
+                        </h2>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table id="about" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="2">
+                                <font face="arial" color="#f3971b" size="6">
+                                     About The University
+                                </font>
+                                <hr width="70" color="#f3971b">
+                        
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="40%">
+                            <img src="https://fastly.4sqi.net/img/general/600x600/92797040_CfVJESvLUL7KGhKfBlbcy50thG7NYrmDZg-9xN3pyNc.jpg" alt="BBDU"  width="90%">
+                        </td>
+                        <td width="60%">
+                            <font face="arial" color="#ffffff" size="4">
+                                <h2>
+                                Babu Banarasi Das University
+                                </h2>
+                                Babu Banarasi Das University is a private university having its Main Campus in Lucknow, Uttar Pradesh, India, established by Akhilesh Das in 2010 and named after his father and former Chief Minister of Uttar Pradesh, Babu Banarasi Das. The university was incepted by an Act (No. 25 of 2010) of State Legislature of Uttar Pradesh as a State Private University and UGC vide its letter no 8-30/2010(CPP-I/PU) dated 17 February 2011 empowered it to award degrees under section 22 of the UGC Act, 1956.
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+   <table id="practice" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFFE0">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="3">
+                                <font face="arial" color="#292929" size="6">
+                                     Practice
+                                </font>
+                                <hr width="70" color="#292929">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="25%">
+                            <a href="https://bbdu.ac.in/portfolio-posts/university-library/"><img src="https://bbdu.ac.in/wp-content/uploads/2018/10/library.jpg" alt="Practice1"  width="65%"></a>
+                            <h3>BBD E-Library</h3>
+                        </td>
+                        <td width="25%">
+                            <a href="https://www.w3schools.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="Practice1"  width="45%"></a>
+                            <h3>Coding here</h3>
+                        </td>
+                        <td width="25%">
+                            <a href="https://chat.openai.com/auth/login"><img src="https://blog.routinehub.co/content/images/2023/02/openAI-chat-gpt-1.jpg" alt="Practice1"  width="65%"></a>
+                            <h3>Ask Here</h3>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+     <table id="Our-Faculty-Heads" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="3">
+                                <font face="arial" color="#f3971b" size="5">
+                                    Our Faculty-Heads
+                                </font>
+                                <hr width="70" color="#f3971b">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#ffffff">
+                                <h3 align="center">Dr Praveen Shukla(HOD)</h3>
+                            </font>
+                            <font face="arial" color="#c2c0c3">
+                                Mr. Praveen Shukla, our esteemed Head of the Department for Computer Science Engineering, is a distinguished academician and leader whose contributions have significantly shaped the trajectory of our department. Holding an impressive educational background in [mention relevant degrees or qualifications], Mr. Shukla brings a wealth of knowledge and experience to his role.
+                            </font>
+                        </td>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#ffffff">
+                                <h3 align="center">Dr Padmesh Singh(Coordinator)</h3>
+                            </font>
+                            <font face="arial" color="#c2c0c3">
+                                Dr. Padmesh Singh, our esteemed coordinator, is an exceptional individual who consistently demonstrates a high level of professionalism and dedication. His amiable nature and approachable demeanor create a positive and inclusive atmosphere within the academic community.He possesses a wealth of knowledge and expertise in his field, which he readily shares to enrich the educational experience for everyone involved. Dr. Padmesh Singh's leadership style is marked by his ability to effectively communicate and collaborate with others, fostering a sense of unity and shared purpose.
+                            </font>
+                        </td>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#ffffff">
+                                <h3 align="center">Mr Prasanna Jadhav</h3>
+                            </font>
+                            <font face="arial" color="#c2c0c3">
+                                Mr. Prasanna Jadhav, our distinguished Java subject teacher, brings a wealth of industry expertise to our academic environment as a professional affiliated with IBM. With a background rooted in one of the leading technology companies, Mr. Jadhav brings a real-world perspective to the classroom, enriching our learning experience.
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table id="achievements" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="2">
+                                <font face="arial" color="#292929" size="6">
+                                     Achievements
+                                </font>
+                                <hr width="70" color="#292929">                      
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="66%" valign="top">
+                           <font face="arial"color="#292929">
+                            <ul>
+                                <li>Project on Smart Village Selected in rural innovation scheme of AKTU 2018-19 OF Ratnesh –EE 4th Year</li>
+                                <li>Second Year students won first prize in Frugal Engineering(Robo War, Jugad) in KIT Kanpur.</li>
+                                <li>Third Year students won third prize in circuit making competition in KIT Kanpur.</li>
+                                <li>Won FIRST PRIZE in technical fest which is held in IIT BHU VARANASI from 16/02/2018-18/02/2018.</li>
+                                <li>DISTRICT MEET ORGANIZED BY LUCKNOW UNIVERSITY
+                                    Date: August 2011
+                                    <br>
+                                   1 Venue: Lucknow University
+                                   <br>
+                                   2 Result: 2nd position in 800 m race
+                                   <br>
+                                   3 3rd position in 400 m race
+                                   <br>
+                                   4 3rd position in 1500 m race</li>
+                                   <br>                             
+                            </ul>
+                           </font>
+                        </td>
+                        <td valign="top">
+                            <img src="https://bbdu.ac.in/wp-content/uploads/2018/10/awards-and-achievements-min.jpg" alt="Achievements"  width="100%">
+                        </td>                        
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table id="login" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="	#A9A9A9">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td height="100" align="center" valign="middle" colspan="1">
+                                <font face="arial" color="#800000" size="6">
+                                     login
+                                </font>
+                                <hr width="70" color="#800000">                       
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                           <table border="0" width="50%" cellpadding="15" cellspacing="0" align="center" bgcolor="#FFFFFF">
+                               <tr>
+                                <form action="FirstServlet" method="post">
+		
+                                     E-mail:-        <input type="text" placeholder="Enter your e-mail" name="login">
+                                    <br>
+                                    <br>
+                                    Password:-   <input type="password" placeholder="Enter your password" name="password">
+                                     <br>
+                                    <br>
+                                    University RollNo:-<input type="text" placeholder="Enter your rollNo" name="marks">
+                                    <br>
+                                    <br>
+                                    <input type="submit">
+                                </form> 
+                            </tr>
+                           </table>
+                        </td>    
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table id="header" border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>                 
+                        <td rowspan="2">
+                            <font face="arial" color="#ffffff" size="5">
+                                <span class="fa fa-arrow-circle-up" aria-hidden="true"></span>
+                             <a href="#header">
+                                <font face="arial" color="#ffffff" size="5">
+                                    Top
+                                </font>                               
+                            </a>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
