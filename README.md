@@ -1,2 +1,2 @@
-# The-Vassh-(Clone of BBD University site) 
+# The-Vassh-(Clone of BBD University website) 
 Introducing Vassh - a clone of the BBD website! Explore the beauty and functionality of this project, now available on GitHub. #webdevelopment #clone #BBD #GitHub
